@@ -19,16 +19,21 @@
 图书借阅模块设计
 图书借阅模块测试
 管理员界面设计
+
 二、所使用平台
 Windows平台
+
 三、操作系统
 Win10 64位操作系统
+
 四、数据库
 SQL Server 2019
+
 五、开发工具及版本
 python3.8
 vscode
 Microsoft SQL Server Management Studio 18
+
 六、主要配置
 1.SQL Server 2019 配置管理器 将ipv4的端口改为1433
 2.下载python第三方库,PyQt5、urllib、bs4等等
